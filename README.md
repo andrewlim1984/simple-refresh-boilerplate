@@ -1,12 +1,10 @@
-SIMPLE-REFRESH-BOILERPLATE
+# SIMPLE-REFRESH-BOILERPLATE
 
 A simple boiler plate that refreshes the browser whenever a change is made
 
-Installation:
-
-	1. git clone
-	2. npm install
-	3. nodemon server.js
+1. git clone
+2. npm install
+3. nodemon server.js
 
 
 CHANGE LOG:
